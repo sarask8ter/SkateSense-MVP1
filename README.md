@@ -1,2 +1,2 @@
-# SkateSense-MVP1
-Analyzes figure skating elements with computer vision and machine learning.
+# SkateSense-MVP(1)
+Using flutter to detect poses in figure skating: machine learning, dart, android sdk.
